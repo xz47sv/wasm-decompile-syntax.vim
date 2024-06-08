@@ -1,6 +1,6 @@
 " Vim syntax file
 " Language: dcmp
-" Upstream: TODO
+" Upstream: git.ash.fail/wasm-decompile-syntax.vim
 
 if exists('b:current_syntax')
     finish
